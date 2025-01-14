@@ -1,0 +1,984 @@
+[2024-11-28 20:03:48 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:03:48 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:03:48 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:03:48 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:03:48 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:04:05 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-11-28 20:04:06 : INFO] - A total of 86 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:04:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-11-28 20:04:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-11-28 20:04:06 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-11-28 20:04:06 : INFO] - Re_Smush_It_Task - Attachment ID : 7358, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:06 : INFO] - File: marketplace-hero.jpg, Compression quality: 92 
+[2024-11-28 20:04:07 : INFO] - Backing up the original image - 2024/02/marketplace-hero-updraft-pre-smush-original.jpg 
+[2024-11-28 20:04:08 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:04:08 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:04:08 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:04:08 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:04:08 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:04:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:12 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/marketplace-hero.jpg.The file was compressed from 103.47 KB to 103.47 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:12 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-11-28 20:04:12 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-11-28 20:04:12 : INFO] - Re_Smush_It_Task - Attachment ID : 7366, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:12 : INFO] - File: about-us-team1.png, Compression quality: 92 
+[2024-11-28 20:04:13 : INFO] - Backing up the original image - 2024/02/about-us-team1-updraft-pre-smush-original.png 
+[2024-11-28 20:04:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:15 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team1.png.The file was compressed from 33.23 KB to 33.23 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:15 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-11-28 20:04:15 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-11-28 20:04:15 : INFO] - Re_Smush_It_Task - Attachment ID : 7367, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:15 : INFO] - File: about-us-team2.png, Compression quality: 92 
+[2024-11-28 20:04:16 : INFO] - Backing up the original image - 2024/02/about-us-team2-updraft-pre-smush-original.png 
+[2024-11-28 20:04:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:18 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team2.png.The file was compressed from 32.19 KB to 32.19 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:18 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-11-28 20:04:18 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-11-28 20:04:18 : INFO] - Re_Smush_It_Task - Attachment ID : 7368, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:18 : INFO] - File: about-us-team3.png, Compression quality: 92 
+[2024-11-28 20:04:18 : INFO] - Backing up the original image - 2024/02/about-us-team3-updraft-pre-smush-original.png 
+[2024-11-28 20:04:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:20 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team3.png.The file was compressed from 32.01 KB to 32.01 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:20 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-11-28 20:04:20 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-11-28 20:04:20 : INFO] - Re_Smush_It_Task - Attachment ID : 7369, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:20 : INFO] - File: about-us-team4.png, Compression quality: 92 
+[2024-11-28 20:04:21 : INFO] - Backing up the original image - 2024/02/about-us-team4-updraft-pre-smush-original.png 
+[2024-11-28 20:04:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:23 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team4.png.The file was compressed from 24.17 KB to 24.17 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:23 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2024-11-28 20:04:23 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2024-11-28 20:04:23 : INFO] - Re_Smush_It_Task - Attachment ID : 7370, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:23 : INFO] - File: meet-the-president.png, Compression quality: 92 
+[2024-11-28 20:04:24 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:04:24 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:04:24 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:04:24 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:04:24 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:04:24 : INFO] - Backing up the original image - 2024/02/meet-the-president-updraft-pre-smush-original.png 
+[2024-11-28 20:04:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:27 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/meet-the-president.png.The file was compressed from 73.85 KB to 73.85 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:27 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2024-11-28 20:04:27 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2024-11-28 20:04:27 : INFO] - Re_Smush_It_Task - Attachment ID : 7377, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:27 : INFO] - File: about-video-thumb.jpg, Compression quality: 92 
+[2024-11-28 20:04:28 : INFO] - Backing up the original image - 2024/02/about-video-thumb-updraft-pre-smush-original.jpg 
+[2024-11-28 20:04:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:31 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-video-thumb.jpg.The file was compressed from 69.64 KB to 69.64 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:31 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2024-11-28 20:04:31 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2024-11-28 20:04:31 : INFO] - Re_Smush_It_Task - Attachment ID : 7401, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:31 : INFO] - File: course_thumb_1.jpg, Compression quality: 92 
+[2024-11-28 20:04:32 : INFO] - Backing up the original image - 2019/05/course_thumb_1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:04:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:37 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_1.jpg.The file was compressed from 147.32 KB to 147.32 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:37 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2024-11-28 20:04:37 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2024-11-28 20:04:37 : INFO] - Re_Smush_It_Task - Attachment ID : 7402, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:37 : INFO] - File: course_thumb_2.jpg, Compression quality: 92 
+[2024-11-28 20:04:38 : INFO] - Backing up the original image - 2019/05/course_thumb_2-updraft-pre-smush-original.jpg 
+[2024-11-28 20:04:39 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:04:39 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:04:39 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:04:39 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:04:39 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:04:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:43 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_2.jpg.The file was compressed from 72.76 KB to 72.76 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:43 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2024-11-28 20:04:43 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2024-11-28 20:04:43 : INFO] - Re_Smush_It_Task - Attachment ID : 7403, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:43 : INFO] - File: course_thumb_3.jpg, Compression quality: 92 
+[2024-11-28 20:04:44 : INFO] - Backing up the original image - 2019/05/course_thumb_3-updraft-pre-smush-original.jpg 
+[2024-11-28 20:04:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:49 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_3.jpg.The file was compressed from 87.90 KB to 87.90 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:49 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2024-11-28 20:04:49 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2024-11-28 20:04:49 : INFO] - Re_Smush_It_Task - Attachment ID : 7404, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:49 : INFO] - File: course_thumb_4.jpg, Compression quality: 92 
+[2024-11-28 20:04:50 : INFO] - Backing up the original image - 2019/05/course_thumb_4-updraft-pre-smush-original.jpg 
+[2024-11-28 20:04:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:04:55 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_4.jpg.The file was compressed from 108.62 KB to 108.62 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:04:55 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2024-11-28 20:04:55 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2024-11-28 20:04:55 : INFO] - Re_Smush_It_Task - Attachment ID : 7406, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:04:55 : INFO] - File: course_thumb_5.jpg, Compression quality: 92 
+[2024-11-28 20:04:56 : INFO] - Backing up the original image - 2019/05/course_thumb_5-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:02 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_5.jpg.The file was compressed from 171.15 KB to 171.15 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:05:02 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2024-11-28 20:05:02 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2024-11-28 20:05:02 : INFO] - Re_Smush_It_Task - Attachment ID : 7407, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:02 : INFO] - File: course_thumb_6.jpg, Compression quality: 92 
+[2024-11-28 20:05:03 : INFO] - Backing up the original image - 2019/05/course_thumb_6-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:06 : INFO] - A total of 74 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:05:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:05:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:05:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:05:06 : INFO] - Cleaning up tasks of type (smush). A total of 12 tasks will be deleted. 
+[2024-11-28 20:05:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:09 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_6.jpg.The file was compressed from 132.55 KB to 132.55 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:05:09 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2024-11-28 20:05:09 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2024-11-28 20:05:09 : INFO] - Re_Smush_It_Task - Attachment ID : 7408, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:09 : INFO] - File: course_thumb_7.jpg, Compression quality: 92 
+[2024-11-28 20:05:11 : INFO] - Backing up the original image - 2019/05/course_thumb_7-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:17 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_7.jpg.The file was compressed from 304.69 KB to 304.69 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:05:17 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2024-11-28 20:05:17 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2024-11-28 20:05:17 : INFO] - Re_Smush_It_Task - Attachment ID : 7409, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:17 : INFO] - File: course_thumb_8.jpg, Compression quality: 92 
+[2024-11-28 20:05:19 : INFO] - Backing up the original image - 2019/05/course_thumb_8-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:25 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_8.jpg.The file was compressed from 321.59 KB to 321.59 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:05:25 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2024-11-28 20:05:25 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2024-11-28 20:05:25 : INFO] - Re_Smush_It_Task - Attachment ID : 7410, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:25 : INFO] - File: course_thumb_9.jpg, Compression quality: 92 
+[2024-11-28 20:05:26 : INFO] - Backing up the original image - 2019/05/course_thumb_9-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:32 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_9.jpg.The file was compressed from 159.66 KB to 159.66 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:05:32 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2024-11-28 20:05:32 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2024-11-28 20:05:32 : INFO] - Re_Smush_It_Task - Attachment ID : 7461, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:32 : INFO] - File: 20211112_110804-1-scaled.jpg, Compression quality: 92 
+[2024-11-28 20:05:33 : INFO] - Backing up the original image - 2024/06/20211112_110804-1-scaled-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:43 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/20211112_110804-1-scaled.jpg.The file was compressed from 304.93 KB to 299.63 KB, saving 1.74 percent, using WP-Optimize 
+[2024-11-28 20:05:43 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2024-11-28 20:05:43 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2024-11-28 20:05:43 : INFO] - Re_Smush_It_Task - Attachment ID : 7463, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:43 : INFO] - File: 1.jpg, Compression quality: 92 
+[2024-11-28 20:05:44 : INFO] - Backing up the original image - 2024/06/1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:49 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/1.jpg.The file was compressed from 138.61 KB to 136.39 KB, saving 1.61 percent, using WP-Optimize 
+[2024-11-28 20:05:49 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2024-11-28 20:05:49 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2024-11-28 20:05:49 : INFO] - Re_Smush_It_Task - Attachment ID : 7465, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:49 : INFO] - File: Banner.jpg, Compression quality: 92 
+[2024-11-28 20:05:50 : INFO] - Backing up the original image - 2024/06/Banner-updraft-pre-smush-original.jpg 
+[2024-11-28 20:05:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:55 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Banner.jpg.The file was compressed from 60.34 KB to 60.34 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:05:55 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2024-11-28 20:05:55 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2024-11-28 20:05:55 : INFO] - Re_Smush_It_Task - Attachment ID : 7484, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:55 : INFO] - File: favicon-1.png, Compression quality: 92 
+[2024-11-28 20:05:56 : INFO] - Backing up the original image - 2024/06/favicon-1-updraft-pre-smush-original.png 
+[2024-11-28 20:05:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:05:58 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/favicon-1.png.The file was compressed from 38.09 KB to 17.97 KB, saving 52.84 percent, using WP-Optimize 
+[2024-11-28 20:05:58 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2024-11-28 20:05:58 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2024-11-28 20:05:58 : INFO] - Re_Smush_It_Task - Attachment ID : 7485, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:05:58 : INFO] - File: cropped-favicon-1.png, Compression quality: 92 
+[2024-11-28 20:05:59 : INFO] - Backing up the original image - 2024/06/cropped-favicon-1-updraft-pre-smush-original.png 
+[2024-11-28 20:06:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:06:04 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/cropped-favicon-1.png.The file was compressed from 36.63 KB to 16.24 KB, saving 55.68 percent, using WP-Optimize 
+[2024-11-28 20:06:04 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2024-11-28 20:06:04 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2024-11-28 20:06:04 : INFO] - Re_Smush_It_Task - Attachment ID : 7527, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:06:04 : INFO] - File: live-online-training.jpg, Compression quality: 92 
+[2024-11-28 20:06:05 : INFO] - Backing up the original image - 2024/06/live-online-training-updraft-pre-smush-original.jpg 
+[2024-11-28 20:06:06 : INFO] - A total of 86 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:06:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:06:06 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:06:06 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:06:06 : INFO] - Cleaning up tasks of type (smush). A total of 9 tasks will be deleted. 
+[2024-11-28 20:07:08 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:07:08 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:07:08 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:07:08 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:07:08 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:08:40 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:08:40 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:08:40 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:08:40 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:08:40 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:08:50 : INFO] - A total of 86 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:08:50 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:08:50 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:08:50 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:09:20 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:09:20 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:09:20 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:09:20 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:09:20 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:09:35 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:09:35 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:09:35 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:09:35 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:09:35 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:09:50 : INFO] - A total of 86 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:09:50 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2024-11-28 20:09:50 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2024-11-28 20:09:50 : INFO] - Re_Smush_It_Task - Attachment ID : 7527, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:09:50 : INFO] - File: live-online-training.jpg, Compression quality: 92 
+[2024-11-28 20:09:51 : INFO] - Backing up the original image - 2024/06/live-online-training-updraft-pre-smush-original.jpg 
+[2024-11-28 20:09:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:09:56 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/live-online-training.jpg.The file was compressed from 48.57 KB to 48.51 KB, saving 0.12 percent, using WP-Optimize 
+[2024-11-28 20:09:56 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2024-11-28 20:09:56 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2024-11-28 20:09:56 : INFO] - Re_Smush_It_Task - Attachment ID : 7572, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:09:56 : INFO] - File: consulting.jpeg, Compression quality: 92 
+[2024-11-28 20:09:56 : INFO] - Backing up the original image - 2024/06/consulting-updraft-pre-smush-original.jpeg 
+[2024-11-28 20:09:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:09:58 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/consulting.jpeg.The file was compressed from 7.40 KB to 7.40 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:09:58 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2024-11-28 20:09:58 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2024-11-28 20:09:58 : INFO] - Re_Smush_It_Task - Attachment ID : 7573, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:09:58 : INFO] - File: management-consulting.jpg, Compression quality: 92 
+[2024-11-28 20:09:59 : INFO] - Backing up the original image - 2024/06/management-consulting-updraft-pre-smush-original.jpg 
+[2024-11-28 20:10:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:04 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/management-consulting.jpg.The file was compressed from 86.13 KB to 86.13 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:10:04 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2024-11-28 20:10:04 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2024-11-28 20:10:04 : INFO] - Re_Smush_It_Task - Attachment ID : 7665, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:04 : INFO] - File: sami.jpg, Compression quality: 92 
+[2024-11-28 20:10:05 : INFO] - Backing up the original image - 2024/06/sami-updraft-pre-smush-original.jpg 
+[2024-11-28 20:10:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:09 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/sami.jpg.The file was compressed from 71.20 KB to 69.38 KB, saving 2.56 percent, using WP-Optimize 
+[2024-11-28 20:10:09 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2024-11-28 20:10:09 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2024-11-28 20:10:09 : INFO] - Re_Smush_It_Task - Attachment ID : 7667, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:09 : INFO] - File: pbi.jpg, Compression quality: 92 
+[2024-11-28 20:10:10 : INFO] - Backing up the original image - 2024/06/pbi-updraft-pre-smush-original.jpg 
+[2024-11-28 20:10:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:13 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/pbi.jpg.The file was compressed from 34.13 KB to 33.98 KB, saving 0.43 percent, using WP-Optimize 
+[2024-11-28 20:10:13 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2024-11-28 20:10:13 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2024-11-28 20:10:13 : INFO] - Re_Smush_It_Task - Attachment ID : 7744, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:13 : INFO] - File: course-banner-1.jpg, Compression quality: 92 
+[2024-11-28 20:10:14 : INFO] - Backing up the original image - 2024/06/course-banner-1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:10:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:20 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/course-banner-1.jpg.The file was compressed from 56.50 KB to 46.28 KB, saving 18.08 percent, using WP-Optimize 
+[2024-11-28 20:10:20 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2024-11-28 20:10:20 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2024-11-28 20:10:20 : INFO] - Re_Smush_It_Task - Attachment ID : 7794, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:20 : INFO] - File: Banner-1.jpg, Compression quality: 92 
+[2024-11-28 20:10:21 : INFO] - Backing up the original image - 2024/06/Banner-1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:10:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:27 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Banner-1.jpg.The file was compressed from 60.34 KB to 60.34 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:10:27 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2024-11-28 20:10:27 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2024-11-28 20:10:27 : INFO] - Re_Smush_It_Task - Attachment ID : 7807, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:27 : INFO] - File: re388xshtgihucfiiavf.png, Compression quality: 92 
+[2024-11-28 20:10:28 : INFO] - Backing up the original image - 2024/06/re388xshtgihucfiiavf-updraft-pre-smush-original.png 
+[2024-11-28 20:10:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:33 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/re388xshtgihucfiiavf.png.The file was compressed from 67.14 KB to 39.83 KB, saving 40.67 percent, using WP-Optimize 
+[2024-11-28 20:10:33 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2024-11-28 20:10:33 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2024-11-28 20:10:33 : INFO] - Re_Smush_It_Task - Attachment ID : 7879, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:33 : INFO] - File: Cute-Feminine-Pastel-Welcome-to-Class-Google-Classroom-Header-1.jpg, Compression quality: 92 
+[2024-11-28 20:10:34 : INFO] - Backing up the original image - 2024/06/Cute-Feminine-Pastel-Welcome-to-Class-Google-Classroom-Header-1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:10:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:39 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Cute-Feminine-Pastel-Welcome-to-Class-Google-Classroom-Header-1.jpg.The file was compressed from 20.57 KB to 19.01 KB, saving 7.59 percent, using WP-Optimize 
+[2024-11-28 20:10:39 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2024-11-28 20:10:39 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2024-11-28 20:10:39 : INFO] - Re_Smush_It_Task - Attachment ID : 7883, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:39 : INFO] - File: Green-White-Orange-Modern-Geometric-Online-Training-Banner-4-scaled.jpg, Compression quality: 92 
+[2024-11-28 20:10:40 : INFO] - Backing up the original image - 2024/06/Green-White-Orange-Modern-Geometric-Online-Training-Banner-4-scaled-updraft-pre-smush-original.jpg 
+[2024-11-28 20:10:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:48 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Green-White-Orange-Modern-Geometric-Online-Training-Banner-4-scaled.jpg.The file was compressed from 151.93 KB to 148.04 KB, saving 2.56 percent, using WP-Optimize 
+[2024-11-28 20:10:48 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2024-11-28 20:10:48 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2024-11-28 20:10:48 : INFO] - Re_Smush_It_Task - Attachment ID : 8127, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:48 : INFO] - File: cropped-analytic-hub-logo.png, Compression quality: 92 
+[2024-11-28 20:10:48 : INFO] - Backing up the original image - 2024/06/cropped-analytic-hub-logo-updraft-pre-smush-original.png 
+[2024-11-28 20:10:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:51 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/cropped-analytic-hub-logo.png.The file was compressed from 10.21 KB to 3.61 KB, saving 64.6 percent, using WP-Optimize 
+[2024-11-28 20:10:51 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2024-11-28 20:10:51 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2024-11-28 20:10:51 : INFO] - Re_Smush_It_Task - Attachment ID : 8130, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:51 : INFO] - File: cropped-cropped-analytic-hub-logo.png, Compression quality: 92 
+[2024-11-28 20:10:52 : INFO] - Backing up the original image - 2024/06/cropped-cropped-analytic-hub-logo-updraft-pre-smush-original.png 
+[2024-11-28 20:10:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:54 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/cropped-cropped-analytic-hub-logo.png.The file was compressed from 10.01 KB to 3.52 KB, saving 64.87 percent, using WP-Optimize 
+[2024-11-28 20:10:54 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2024-11-28 20:10:54 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2024-11-28 20:10:54 : INFO] - Re_Smush_It_Task - Attachment ID : 8132, Started on : November 28, 2024 08:04:05 
+[2024-11-28 20:10:54 : INFO] - File: analytic-hub-logo-white.png, Compression quality: 92 
+[2024-11-28 20:10:55 : INFO] - Backing up the original image - 2024/06/analytic-hub-logo-white-updraft-pre-smush-original.png 
+[2024-11-28 20:10:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:10:57 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/analytic-hub-logo-white.png.The file was compressed from 6.63 KB to 3.50 KB, saving 47.23 percent, using WP-Optimize 
+[2024-11-28 20:10:58 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2024-11-28 20:10:58 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2024-11-28 20:10:58 : INFO] - Re_Smush_It_Task - Attachment ID : 8390, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:10:58 : INFO] - File: Untitled-1.png, Compression quality: 92 
+[2024-11-28 20:10:58 : INFO] - Backing up the original image - 2024/06/Untitled-1-updraft-pre-smush-original.png 
+[2024-11-28 20:11:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:02 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Untitled-1.png.The file was compressed from 40.69 KB to 803 bytes, saving 98.07 percent, using WP-Optimize 
+[2024-11-28 20:11:02 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2024-11-28 20:11:02 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2024-11-28 20:11:02 : INFO] - Re_Smush_It_Task - Attachment ID : 8452, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:02 : INFO] - File: Live-Training-Analytic-Hub.jpeg, Compression quality: 92 
+[2024-11-28 20:11:02 : INFO] - Backing up the original image - 2024/06/Live-Training-Analytic-Hub-updraft-pre-smush-original.jpeg 
+[2024-11-28 20:11:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:05 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Live-Training-Analytic-Hub.jpeg.The file was compressed from 20.03 KB to 14.73 KB, saving 26.43 percent, using WP-Optimize 
+[2024-11-28 20:11:05 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2024-11-28 20:11:05 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2024-11-28 20:11:05 : INFO] - Re_Smush_It_Task - Attachment ID : 8454, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:05 : INFO] - File: Recorded-Training-Analytic-Hub.jpeg, Compression quality: 92 
+[2024-11-28 20:11:05 : INFO] - Backing up the original image - 2024/06/Recorded-Training-Analytic-Hub-updraft-pre-smush-original.jpeg 
+[2024-11-28 20:11:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:08 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Recorded-Training-Analytic-Hub.jpeg.The file was compressed from 15.97 KB to 11.08 KB, saving 30.61 percent, using WP-Optimize 
+[2024-11-28 20:11:08 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2024-11-28 20:11:08 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2024-11-28 20:11:08 : INFO] - Re_Smush_It_Task - Attachment ID : 8455, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:08 : INFO] - File: Consultancy-Service.jpeg, Compression quality: 92 
+[2024-11-28 20:11:09 : INFO] - Backing up the original image - 2024/06/Consultancy-Service-updraft-pre-smush-original.jpeg 
+[2024-11-28 20:11:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:12 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Consultancy-Service.jpeg.The file was compressed from 20.07 KB to 14.59 KB, saving 27.33 percent, using WP-Optimize 
+[2024-11-28 20:11:12 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2024-11-28 20:11:12 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2024-11-28 20:11:12 : INFO] - Re_Smush_It_Task - Attachment ID : 8619, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:12 : INFO] - File: pbi-1.jpg, Compression quality: 92 
+[2024-11-28 20:11:13 : INFO] - Backing up the original image - 2024/06/pbi-1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:11:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:16 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/pbi-1.jpg.The file was compressed from 34.13 KB to 33.98 KB, saving 0.43 percent, using WP-Optimize 
+[2024-11-28 20:11:16 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2024-11-28 20:11:16 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2024-11-28 20:11:16 : INFO] - Re_Smush_It_Task - Attachment ID : 8724, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:16 : INFO] - File: White-Blue-Modern-Business-Consultant-Instagram-Post-1.jpg, Compression quality: 92 
+[2024-11-28 20:11:17 : INFO] - Backing up the original image - 2024/06/White-Blue-Modern-Business-Consultant-Instagram-Post-1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:11:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:22 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/White-Blue-Modern-Business-Consultant-Instagram-Post-1.jpg.The file was compressed from 88.09 KB to 77.84 KB, saving 11.63 percent, using WP-Optimize 
+[2024-11-28 20:11:22 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2024-11-28 20:11:22 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2024-11-28 20:11:22 : INFO] - Re_Smush_It_Task - Attachment ID : 8821, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:22 : INFO] - File: Blue-Modern-Business-Consulting-Banner-3-scaled.jpg, Compression quality: 92 
+[2024-11-28 20:11:24 : INFO] - Backing up the original image - 2024/06/Blue-Modern-Business-Consulting-Banner-3-scaled-updraft-pre-smush-original.jpg 
+[2024-11-28 20:11:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:34 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Blue-Modern-Business-Consulting-Banner-3-scaled.jpg.The file was compressed from 256.92 KB to 234.94 KB, saving 8.55 percent, using WP-Optimize 
+[2024-11-28 20:11:34 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2024-11-28 20:11:34 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2024-11-28 20:11:34 : INFO] - Re_Smush_It_Task - Attachment ID : 8959, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:34 : INFO] - File: qr.png, Compression quality: 92 
+[2024-11-28 20:11:34 : INFO] - Backing up the original image - 2024/06/qr-updraft-pre-smush-original.png 
+[2024-11-28 20:11:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:38 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/qr.png.The file was compressed from 40.69 KB to 803 bytes, saving 98.07 percent, using WP-Optimize 
+[2024-11-28 20:11:38 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2024-11-28 20:11:38 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2024-11-28 20:11:38 : INFO] - Re_Smush_It_Task - Attachment ID : 9117, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:38 : INFO] - File: Modern-Online-Learning-Promotion-Facebook-Post.jpg, Compression quality: 92 
+[2024-11-28 20:11:39 : INFO] - Backing up the original image - 2024/07/Modern-Online-Learning-Promotion-Facebook-Post-updraft-pre-smush-original.jpg 
+[2024-11-28 20:11:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:44 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/07/Modern-Online-Learning-Promotion-Facebook-Post.jpg.The file was compressed from 86.34 KB to 78.93 KB, saving 8.59 percent, using WP-Optimize 
+[2024-11-28 20:11:44 : INFO] - Completed processing task with ID : 61, and type 'smush' 
+[2024-11-28 20:11:44 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2024-11-28 20:11:44 : INFO] - Re_Smush_It_Task - Attachment ID : 9280, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:44 : INFO] - File: classschedule.jpg, Compression quality: 92 
+[2024-11-28 20:11:45 : INFO] - Backing up the original image - 2024/06/classschedule-updraft-pre-smush-original.jpg 
+[2024-11-28 20:11:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:11:50 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/classschedule.jpg.The file was compressed from 58.85 KB to 51.96 KB, saving 11.71 percent, using WP-Optimize 
+[2024-11-28 20:11:50 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2024-11-28 20:11:50 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2024-11-28 20:11:50 : INFO] - Re_Smush_It_Task - Attachment ID : 9338, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:11:50 : INFO] - File: bi-Engineer.png, Compression quality: 92 
+[2024-11-28 20:11:50 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:11:50 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:11:50 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:11:50 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:11:50 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:11:51 : INFO] - Backing up the original image - 2024/06/bi-Engineer-updraft-pre-smush-original.png 
+[2024-11-28 20:11:51 : INFO] - A total of 63 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:11:51 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:11:51 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:11:51 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:11:51 : INFO] - Cleaning up tasks of type (smush). A total of 23 tasks will be deleted. 
+[2024-11-28 20:14:36 : INFO] - A total of 63 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:14:36 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:14:36 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:14:36 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:14:51 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:14:51 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:14:51 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:14:51 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:14:51 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:15:00 : INFO] - A total of 63 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:15:00 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2024-11-28 20:15:00 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2024-11-28 20:15:00 : INFO] - Re_Smush_It_Task - Attachment ID : 9338, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:00 : INFO] - File: bi-Engineer.png, Compression quality: 92 
+[2024-11-28 20:15:01 : INFO] - Backing up the original image - 2024/06/bi-Engineer-updraft-pre-smush-original.png 
+[2024-11-28 20:15:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:04 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/bi-Engineer.png.The file was compressed from 2.97 KB to 2.97 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:15:04 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2024-11-28 20:15:04 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2024-11-28 20:15:04 : INFO] - Re_Smush_It_Task - Attachment ID : 9468, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:04 : INFO] - File: industry_projects_clp_2_2367_1685605465-1.png, Compression quality: 92 
+[2024-11-28 20:15:05 : INFO] - Backing up the original image - 2024/06/industry_projects_clp_2_2367_1685605465-1-updraft-pre-smush-original.png 
+[2024-11-28 20:15:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:05 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/industry_projects_clp_2_2367_1685605465-1.png.The file was compressed from 3.45 KB to 1.85 KB, saving 46.48 percent, using WP-Optimize 
+[2024-11-28 20:15:05 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2024-11-28 20:15:05 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2024-11-28 20:15:05 : INFO] - Re_Smush_It_Task - Attachment ID : 9478, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:05 : INFO] - File: industry_projects_clp_2_2367_1685605504.png, Compression quality: 92 
+[2024-11-28 20:15:06 : INFO] - Backing up the original image - 2024/06/industry_projects_clp_2_2367_1685605504-updraft-pre-smush-original.png 
+[2024-11-28 20:15:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:06 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/industry_projects_clp_2_2367_1685605504.png.The file was compressed from 2.94 KB to 1.72 KB, saving 41.52 percent, using WP-Optimize 
+[2024-11-28 20:15:06 : INFO] - Completed processing task with ID : 65, and type 'smush' 
+[2024-11-28 20:15:06 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2024-11-28 20:15:06 : INFO] - Re_Smush_It_Task - Attachment ID : 9537, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:06 : INFO] - File: certificate.png, Compression quality: 92 
+[2024-11-28 20:15:09 : INFO] - Backing up the original image - 2024/06/certificate-updraft-pre-smush-original.png 
+[2024-11-28 20:15:16 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:15:16 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:15:16 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:15:16 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:15:16 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:15:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:17 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/certificate.png.The file was compressed from 362.65 KB to 149.03 KB, saving 58.9 percent, using WP-Optimize 
+[2024-11-28 20:15:17 : INFO] - Completed processing task with ID : 66, and type 'smush' 
+[2024-11-28 20:15:17 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2024-11-28 20:15:17 : INFO] - Re_Smush_It_Task - Attachment ID : 9923, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:17 : INFO] - File: logo.png, Compression quality: 92 
+[2024-11-28 20:15:18 : INFO] - Backing up the original image - 2024/08/logo-updraft-pre-smush-original.png 
+[2024-11-28 20:15:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:22 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/logo.png.The file was compressed from 8.69 KB to 4.51 KB, saving 48.12 percent, using WP-Optimize 
+[2024-11-28 20:15:22 : INFO] - Completed processing task with ID : 67, and type 'smush' 
+[2024-11-28 20:15:22 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2024-11-28 20:15:22 : INFO] - Re_Smush_It_Task - Attachment ID : 9924, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:22 : INFO] - File: cropped-logo.png, Compression quality: 92 
+[2024-11-28 20:15:23 : INFO] - Backing up the original image - 2024/08/cropped-logo-updraft-pre-smush-original.png 
+[2024-11-28 20:15:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:27 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/cropped-logo.png.The file was compressed from 12.51 KB to 4.30 KB, saving 65.65 percent, using WP-Optimize 
+[2024-11-28 20:15:27 : INFO] - Completed processing task with ID : 68, and type 'smush' 
+[2024-11-28 20:15:27 : INFO] - Processing task with ID : 69, and type 'smush' 
+[2024-11-28 20:15:27 : INFO] - Re_Smush_It_Task - Attachment ID : 9981, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:27 : INFO] - File: 1-Batch.png, Compression quality: 92 
+[2024-11-28 20:15:27 : INFO] - Backing up the original image - 2024/08/1-Batch-updraft-pre-smush-original.png 
+[2024-11-28 20:15:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:29 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/1-Batch.png.The file was compressed from 4.44 KB to 3.40 KB, saving 23.27 percent, using WP-Optimize 
+[2024-11-28 20:15:29 : INFO] - Completed processing task with ID : 69, and type 'smush' 
+[2024-11-28 20:15:29 : INFO] - Processing task with ID : 70, and type 'smush' 
+[2024-11-28 20:15:29 : INFO] - Re_Smush_It_Task - Attachment ID : 9982, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:29 : INFO] - File: 2-Batch.png, Compression quality: 92 
+[2024-11-28 20:15:29 : INFO] - Backing up the original image - 2024/08/2-Batch-updraft-pre-smush-original.png 
+[2024-11-28 20:15:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:32 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/2-Batch.png.The file was compressed from 9.22 KB to 5.11 KB, saving 44.6 percent, using WP-Optimize 
+[2024-11-28 20:15:32 : INFO] - Completed processing task with ID : 70, and type 'smush' 
+[2024-11-28 20:15:32 : INFO] - Processing task with ID : 71, and type 'smush' 
+[2024-11-28 20:15:32 : INFO] - Re_Smush_It_Task - Attachment ID : 9984, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:32 : INFO] - File: 3-Batch.png, Compression quality: 92 
+[2024-11-28 20:15:32 : INFO] - Backing up the original image - 2024/08/3-Batch-updraft-pre-smush-original.png 
+[2024-11-28 20:15:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:34 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/3-Batch.png.The file was compressed from 4.84 KB to 3.55 KB, saving 26.63 percent, using WP-Optimize 
+[2024-11-28 20:15:34 : INFO] - Completed processing task with ID : 71, and type 'smush' 
+[2024-11-28 20:15:34 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2024-11-28 20:15:34 : INFO] - Re_Smush_It_Task - Attachment ID : 9985, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:34 : INFO] - File: 2-Batch-1.png, Compression quality: 92 
+[2024-11-28 20:15:34 : INFO] - Backing up the original image - 2024/08/2-Batch-1-updraft-pre-smush-original.png 
+[2024-11-28 20:15:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:36 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/2-Batch-1.png.The file was compressed from 4.78 KB to 3.53 KB, saving 26.03 percent, using WP-Optimize 
+[2024-11-28 20:15:36 : INFO] - Completed processing task with ID : 72, and type 'smush' 
+[2024-11-28 20:15:36 : INFO] - Processing task with ID : 73, and type 'smush' 
+[2024-11-28 20:15:36 : INFO] - Re_Smush_It_Task - Attachment ID : 10033, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:36 : INFO] - File: Live-Excel-scaled.jpg, Compression quality: 92 
+[2024-11-28 20:15:38 : INFO] - Backing up the original image - 2024/06/Live-Excel-scaled-updraft-pre-smush-original.jpg 
+[2024-11-28 20:15:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:47 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Live-Excel-scaled.jpg.The file was compressed from 190.64 KB to 183.07 KB, saving 3.97 percent, using WP-Optimize 
+[2024-11-28 20:15:47 : INFO] - Completed processing task with ID : 73, and type 'smush' 
+[2024-11-28 20:15:47 : INFO] - Processing task with ID : 74, and type 'smush' 
+[2024-11-28 20:15:47 : INFO] - Re_Smush_It_Task - Attachment ID : 10056, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:47 : INFO] - File: 2-scaled.jpg, Compression quality: 92 
+[2024-11-28 20:15:49 : INFO] - Backing up the original image - 2024/08/2-scaled-updraft-pre-smush-original.jpg 
+[2024-11-28 20:15:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:15:57 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/2-scaled.jpg.The file was compressed from 195.25 KB to 188.64 KB, saving 3.39 percent, using WP-Optimize 
+[2024-11-28 20:15:57 : INFO] - Completed processing task with ID : 74, and type 'smush' 
+[2024-11-28 20:15:57 : INFO] - Processing task with ID : 75, and type 'smush' 
+[2024-11-28 20:15:57 : INFO] - Re_Smush_It_Task - Attachment ID : 10057, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:15:57 : INFO] - File: 3-scaled.jpg, Compression quality: 92 
+[2024-11-28 20:15:59 : INFO] - Backing up the original image - 2024/08/3-scaled-updraft-pre-smush-original.jpg 
+[2024-11-28 20:16:00 : INFO] - A total of 51 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:16:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:16:00 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:16:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:16:00 : INFO] - Cleaning up tasks of type (smush). A total of 12 tasks will be deleted. 
+[2024-11-28 20:16:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:16:08 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/3-scaled.jpg.The file was compressed from 194.56 KB to 187.99 KB, saving 3.38 percent, using WP-Optimize 
+[2024-11-28 20:16:08 : INFO] - Completed processing task with ID : 75, and type 'smush' 
+[2024-11-28 20:16:08 : INFO] - Processing task with ID : 76, and type 'smush' 
+[2024-11-28 20:16:08 : INFO] - Re_Smush_It_Task - Attachment ID : 10427, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:16:08 : INFO] - File: Blue-Minimalist-Preschool-Enrollment-Facebook-Post-1.png, Compression quality: 92 
+[2024-11-28 20:16:10 : INFO] - Backing up the original image - 2024/08/Blue-Minimalist-Preschool-Enrollment-Facebook-Post-1-updraft-pre-smush-original.png 
+[2024-11-28 20:16:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:16:14 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/Blue-Minimalist-Preschool-Enrollment-Facebook-Post-1.png.The file was compressed from 252.13 KB to 64.11 KB, saving 74.57 percent, using WP-Optimize 
+[2024-11-28 20:16:14 : INFO] - Completed processing task with ID : 76, and type 'smush' 
+[2024-11-28 20:16:14 : INFO] - Processing task with ID : 77, and type 'smush' 
+[2024-11-28 20:16:14 : INFO] - Re_Smush_It_Task - Attachment ID : 10442, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:16:14 : INFO] - File: PowerBI-Batch-Post.png, Compression quality: 92 
+[2024-11-28 20:16:18 : INFO] - Backing up the original image - 2024/06/PowerBI-Batch-Post-updraft-pre-smush-original.png 
+[2024-11-28 20:16:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:16:30 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Batch-Post.png.The file was compressed from 1,008.05 KB to 261.83 KB, saving 74.03 percent, using WP-Optimize 
+[2024-11-28 20:16:30 : INFO] - Completed processing task with ID : 77, and type 'smush' 
+[2024-11-28 20:16:30 : INFO] - Processing task with ID : 78, and type 'smush' 
+[2024-11-28 20:16:30 : INFO] - Re_Smush_It_Task - Attachment ID : 10449, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:16:30 : INFO] - File: Excel-Batch-Post.png, Compression quality: 92 
+[2024-11-28 20:16:33 : INFO] - Backing up the original image - 2024/06/Excel-Batch-Post-updraft-pre-smush-original.png 
+[2024-11-28 20:16:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:16:44 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Excel-Batch-Post.png.The file was compressed from 802.43 KB to 213.89 KB, saving 73.34 percent, using WP-Optimize 
+[2024-11-28 20:16:44 : INFO] - Completed processing task with ID : 78, and type 'smush' 
+[2024-11-28 20:16:44 : INFO] - Processing task with ID : 79, and type 'smush' 
+[2024-11-28 20:16:44 : INFO] - Re_Smush_It_Task - Attachment ID : 10453, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:16:44 : INFO] - File: Leadership-Batch-Post.png, Compression quality: 92 
+[2024-11-28 20:16:47 : INFO] - Backing up the original image - 2024/07/Leadership-Batch-Post-updraft-pre-smush-original.png 
+[2024-11-28 20:16:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:16:59 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/07/Leadership-Batch-Post.png.The file was compressed from 1.31 MB to 270.27 KB, saving 79.84 percent, using WP-Optimize 
+[2024-11-28 20:16:59 : INFO] - Completed processing task with ID : 79, and type 'smush' 
+[2024-11-28 20:16:59 : INFO] - Processing task with ID : 80, and type 'smush' 
+[2024-11-28 20:16:59 : INFO] - Re_Smush_It_Task - Attachment ID : 10696, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:16:59 : INFO] - File: banner.jpg, Compression quality: 92 
+[2024-11-28 20:16:59 : INFO] - Backing up the original image - 2024/08/banner-updraft-pre-smush-original.jpg 
+[2024-11-28 20:17:01 : INFO] - A total of 46 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:17:01 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:17:01 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:17:01 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:17:01 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2024-11-28 20:18:01 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:18:01 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:18:01 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:18:01 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:18:01 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:20:45 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:20:45 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:20:45 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:20:45 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:20:45 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:21:12 : INFO] - A total of 46 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:21:12 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2024-11-28 20:21:12 : INFO] - Processing task with ID : 80, and type 'smush' 
+[2024-11-28 20:21:12 : INFO] - Re_Smush_It_Task - Attachment ID : 10696, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:21:12 : INFO] - File: banner.jpg, Compression quality: 92 
+[2024-11-28 20:21:13 : INFO] - Backing up the original image - 2024/08/banner-updraft-pre-smush-original.jpg 
+[2024-11-28 20:21:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:21:20 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/banner.jpg.The file was compressed from 32.61 KB to 32.61 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:21:20 : INFO] - Completed processing task with ID : 80, and type 'smush' 
+[2024-11-28 20:21:20 : INFO] - Processing task with ID : 81, and type 'smush' 
+[2024-11-28 20:21:20 : INFO] - Re_Smush_It_Task - Attachment ID : 10700, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:21:20 : INFO] - File: banner2.jpg, Compression quality: 92 
+[2024-11-28 20:21:21 : INFO] - Backing up the original image - 2024/08/banner2-updraft-pre-smush-original.jpg 
+[2024-11-28 20:21:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:21:27 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/banner2.jpg.The file was compressed from 45.78 KB to 36.44 KB, saving 20.41 percent, using WP-Optimize 
+[2024-11-28 20:21:27 : INFO] - Completed processing task with ID : 81, and type 'smush' 
+[2024-11-28 20:21:27 : INFO] - Processing task with ID : 82, and type 'smush' 
+[2024-11-28 20:21:27 : INFO] - Re_Smush_It_Task - Attachment ID : 10705, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:21:27 : INFO] - File: ahbanner.jpg, Compression quality: 92 
+[2024-11-28 20:21:28 : INFO] - Backing up the original image - 2024/08/ahbanner-updraft-pre-smush-original.jpg 
+[2024-11-28 20:21:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:21:34 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/ahbanner.jpg.The file was compressed from 235.25 KB to 59.22 KB, saving 74.83 percent, using WP-Optimize 
+[2024-11-28 20:21:34 : INFO] - Completed processing task with ID : 82, and type 'smush' 
+[2024-11-28 20:21:34 : INFO] - Processing task with ID : 83, and type 'smush' 
+[2024-11-28 20:21:34 : INFO] - Re_Smush_It_Task - Attachment ID : 10706, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:21:34 : INFO] - File: ahbanner-1.jpg, Compression quality: 92 
+[2024-11-28 20:21:36 : INFO] - Backing up the original image - 2024/08/ahbanner-1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:21:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:21:42 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/ahbanner-1.jpg.The file was compressed from 235.25 KB to 59.22 KB, saving 74.83 percent, using WP-Optimize 
+[2024-11-28 20:21:42 : INFO] - Completed processing task with ID : 83, and type 'smush' 
+[2024-11-28 20:21:42 : INFO] - Processing task with ID : 84, and type 'smush' 
+[2024-11-28 20:21:42 : INFO] - Re_Smush_It_Task - Attachment ID : 10983, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:21:42 : INFO] - File: Sierrawood-Art-Collectors.jpg, Compression quality: 92 
+[2024-11-28 20:21:43 : INFO] - Backing up the original image - 2024/08/Sierrawood-Art-Collectors-updraft-pre-smush-original.jpg 
+[2024-11-28 20:21:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:21:49 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/08/Sierrawood-Art-Collectors.jpg.The file was compressed from 44.44 KB to 33.81 KB, saving 23.92 percent, using WP-Optimize 
+[2024-11-28 20:21:49 : INFO] - Completed processing task with ID : 84, and type 'smush' 
+[2024-11-28 20:21:49 : INFO] - Processing task with ID : 85, and type 'smush' 
+[2024-11-28 20:21:49 : INFO] - Re_Smush_It_Task - Attachment ID : 11631, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:21:49 : INFO] - File: 20211112_110804-1-scaled-1.jpg, Compression quality: 92 
+[2024-11-28 20:21:50 : INFO] - Backing up the original image - 2024/09/20211112_110804-1-scaled-1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:22:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:00 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/20211112_110804-1-scaled-1.jpg.The file was compressed from 366.67 KB to 360.90 KB, saving 1.58 percent, using WP-Optimize 
+[2024-11-28 20:22:00 : INFO] - Completed processing task with ID : 85, and type 'smush' 
+[2024-11-28 20:22:00 : INFO] - Processing task with ID : 86, and type 'smush' 
+[2024-11-28 20:22:00 : INFO] - Re_Smush_It_Task - Attachment ID : 11693, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:00 : INFO] - File: 65efa6846ab8c229b2806ba1_1602846642764-2-p-500.png, Compression quality: 92 
+[2024-11-28 20:22:00 : INFO] - Backing up the original image - 2024/09/65efa6846ab8c229b2806ba1_1602846642764-2-p-500-updraft-pre-smush-original.png 
+[2024-11-28 20:22:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:04 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/65efa6846ab8c229b2806ba1_1602846642764-2-p-500.png.The file was compressed from 12.83 KB to 12.15 KB, saving 5.25 percent, using WP-Optimize 
+[2024-11-28 20:22:04 : INFO] - Completed processing task with ID : 86, and type 'smush' 
+[2024-11-28 20:22:04 : INFO] - Processing task with ID : 87, and type 'smush' 
+[2024-11-28 20:22:04 : INFO] - Re_Smush_It_Task - Attachment ID : 11749, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:04 : INFO] - File: data-graph.png, Compression quality: 92 
+[2024-11-28 20:22:04 : INFO] - Backing up the original image - 2024/09/data-graph-updraft-pre-smush-original.png 
+[2024-11-28 20:22:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:09 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/data-graph.png.The file was compressed from 23.64 KB to 10.58 KB, saving 55.25 percent, using WP-Optimize 
+[2024-11-28 20:22:09 : INFO] - Completed processing task with ID : 87, and type 'smush' 
+[2024-11-28 20:22:09 : INFO] - Processing task with ID : 88, and type 'smush' 
+[2024-11-28 20:22:09 : INFO] - Re_Smush_It_Task - Attachment ID : 12421, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:09 : INFO] - File: eFront_20210125_1200x628.png, Compression quality: 92 
+[2024-11-28 20:22:10 : INFO] - Backing up the original image - 2024/09/eFront_20210125_1200x628-updraft-pre-smush-original.png 
+[2024-11-28 20:22:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:15 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/eFront_20210125_1200x628.png.The file was compressed from 19.33 KB to 19.33 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:22:15 : INFO] - Completed processing task with ID : 88, and type 'smush' 
+[2024-11-28 20:22:15 : INFO] - Processing task with ID : 89, and type 'smush' 
+[2024-11-28 20:22:15 : INFO] - Re_Smush_It_Task - Attachment ID : 12426, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:15 : INFO] - File: 0_jQOJ6fl-xqDZRn0b.jpg, Compression quality: 92 
+[2024-11-28 20:22:16 : INFO] - Backing up the original image - 2024/09/0_jQOJ6fl-xqDZRn0b-updraft-pre-smush-original.jpg 
+[2024-11-28 20:22:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:20 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/0_jQOJ6fl-xqDZRn0b.jpg.The file was compressed from 26.37 KB to 26.04 KB, saving 1.24 percent, using WP-Optimize 
+[2024-11-28 20:22:20 : INFO] - Completed processing task with ID : 89, and type 'smush' 
+[2024-11-28 20:22:20 : INFO] - Processing task with ID : 90, and type 'smush' 
+[2024-11-28 20:22:20 : INFO] - Re_Smush_It_Task - Attachment ID : 12432, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:20 : INFO] - File: Leadership-Course-Recorded-Banner-Analytic-Hub.jpg, Compression quality: 92 
+[2024-11-28 20:22:21 : INFO] - Backing up the original image - 2024/09/Leadership-Course-Recorded-Banner-Analytic-Hub-updraft-pre-smush-original.jpg 
+[2024-11-28 20:22:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:27 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/Leadership-Course-Recorded-Banner-Analytic-Hub.jpg.The file was compressed from 192.98 KB to 155.34 KB, saving 19.51 percent, using WP-Optimize 
+[2024-11-28 20:22:27 : INFO] - Completed processing task with ID : 90, and type 'smush' 
+[2024-11-28 20:22:27 : INFO] - Processing task with ID : 91, and type 'smush' 
+[2024-11-28 20:22:27 : INFO] - Re_Smush_It_Task - Attachment ID : 12433, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:27 : INFO] - File: Excel-Course-Recorded-Banner-Analytic-Hub.jpg, Compression quality: 92 
+[2024-11-28 20:22:28 : INFO] - Backing up the original image - 2024/09/Excel-Course-Recorded-Banner-Analytic-Hub-updraft-pre-smush-original.jpg 
+[2024-11-28 20:22:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:33 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/Excel-Course-Recorded-Banner-Analytic-Hub.jpg.The file was compressed from 150.04 KB to 123.15 KB, saving 17.92 percent, using WP-Optimize 
+[2024-11-28 20:22:33 : INFO] - Completed processing task with ID : 91, and type 'smush' 
+[2024-11-28 20:22:33 : INFO] - Processing task with ID : 92, and type 'smush' 
+[2024-11-28 20:22:33 : INFO] - Re_Smush_It_Task - Attachment ID : 12434, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:33 : INFO] - File: PowerBI-Course-Recorded-Banner-Analytic-Hub.jpg, Compression quality: 92 
+[2024-11-28 20:22:35 : INFO] - Backing up the original image - 2024/09/PowerBI-Course-Recorded-Banner-Analytic-Hub-updraft-pre-smush-original.jpg 
+[2024-11-28 20:22:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:41 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/PowerBI-Course-Recorded-Banner-Analytic-Hub.jpg.The file was compressed from 201.94 KB to 165.92 KB, saving 17.84 percent, using WP-Optimize 
+[2024-11-28 20:22:41 : INFO] - Completed processing task with ID : 92, and type 'smush' 
+[2024-11-28 20:22:41 : INFO] - Processing task with ID : 93, and type 'smush' 
+[2024-11-28 20:22:41 : INFO] - Re_Smush_It_Task - Attachment ID : 12436, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:41 : INFO] - File: usa.png, Compression quality: 92 
+[2024-11-28 20:22:41 : INFO] - Backing up the original image - 2024/09/usa-updraft-pre-smush-original.png 
+[2024-11-28 20:22:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:43 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/usa.png.The file was compressed from 7.23 KB to 7.10 KB, saving 1.7 percent, using WP-Optimize 
+[2024-11-28 20:22:43 : INFO] - Completed processing task with ID : 93, and type 'smush' 
+[2024-11-28 20:22:43 : INFO] - Processing task with ID : 94, and type 'smush' 
+[2024-11-28 20:22:43 : INFO] - Re_Smush_It_Task - Attachment ID : 12437, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:43 : INFO] - File: bd.png, Compression quality: 92 
+[2024-11-28 20:22:44 : INFO] - Backing up the original image - 2024/09/bd-updraft-pre-smush-original.png 
+[2024-11-28 20:22:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:46 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/09/bd.png.The file was compressed from 2.36 KB to 2.25 KB, saving 4.59 percent, using WP-Optimize 
+[2024-11-28 20:22:46 : INFO] - Completed processing task with ID : 94, and type 'smush' 
+[2024-11-28 20:22:46 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2024-11-28 20:22:46 : INFO] - Re_Smush_It_Task - Attachment ID : 12794, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:46 : INFO] - File: Yellow-llustrative-Creativity-Tips-Infographic.png, Compression quality: 92 
+[2024-11-28 20:22:48 : INFO] - Backing up the original image - 2024/10/Yellow-llustrative-Creativity-Tips-Infographic-updraft-pre-smush-original.png 
+[2024-11-28 20:22:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:22:59 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/Yellow-llustrative-Creativity-Tips-Infographic.png.The file was compressed from 397.85 KB to 132.50 KB, saving 66.7 percent, using WP-Optimize 
+[2024-11-28 20:22:59 : INFO] - Completed processing task with ID : 95, and type 'smush' 
+[2024-11-28 20:22:59 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2024-11-28 20:22:59 : INFO] - Re_Smush_It_Task - Attachment ID : 12795, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:22:59 : INFO] - File: Blue-and-Orange-Bold-Business-Webinar-Poster-1.png, Compression quality: 92 
+[2024-11-28 20:23:02 : INFO] - Backing up the original image - 2024/10/Blue-and-Orange-Bold-Business-Webinar-Poster-1-updraft-pre-smush-original.png 
+[2024-11-28 20:23:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:23:12 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/Blue-and-Orange-Bold-Business-Webinar-Poster-1.png.The file was compressed from 860.62 KB to 521.06 KB, saving 39.45 percent, using WP-Optimize 
+[2024-11-28 20:23:12 : INFO] - Completed processing task with ID : 96, and type 'smush' 
+[2024-11-28 20:23:12 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2024-11-28 20:23:12 : INFO] - Re_Smush_It_Task - Attachment ID : 12884, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:23:12 : INFO] - File: Purple-White-Minimalist-Business-Webinar-Facebook-Post.png, Compression quality: 92 
+[2024-11-28 20:23:13 : INFO] - A total of 29 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:23:13 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:23:13 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:23:13 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:23:13 : INFO] - Cleaning up tasks of type (smush). A total of 17 tasks will be deleted. 
+[2024-11-28 20:23:14 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:23:14 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:23:14 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:23:14 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:23:14 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:25:15 : INFO] - A total of 29 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:25:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:25:15 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:25:15 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:26:26 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:26:26 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:26:26 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:26:26 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:26:26 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:26:41 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:26:41 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:26:41 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:26:41 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:26:41 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:26:58 : INFO] - A total of 29 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:26:58 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2024-11-28 20:26:58 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2024-11-28 20:26:58 : INFO] - Re_Smush_It_Task - Attachment ID : 12884, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:26:58 : INFO] - File: Purple-White-Minimalist-Business-Webinar-Facebook-Post.png, Compression quality: 92 
+[2024-11-28 20:27:01 : INFO] - Backing up the original image - 2024/10/Purple-White-Minimalist-Business-Webinar-Facebook-Post-updraft-pre-smush-original.png 
+[2024-11-28 20:27:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:27:10 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/Purple-White-Minimalist-Business-Webinar-Facebook-Post.png.The file was compressed from 732.85 KB to 268.61 KB, saving 63.35 percent, using WP-Optimize 
+[2024-11-28 20:27:10 : INFO] - Completed processing task with ID : 97, and type 'smush' 
+[2024-11-28 20:27:10 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2024-11-28 20:27:10 : INFO] - Re_Smush_It_Task - Attachment ID : 12885, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:27:10 : INFO] - File: wired-outline-501-free-0-hover-roll.gif, Compression quality: 92 
+[2024-11-28 20:27:12 : INFO] - Backing up the original image - 2024/10/wired-outline-501-free-0-hover-roll-updraft-pre-smush-original.gif 
+[2024-11-28 20:27:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:27:15 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/wired-outline-501-free-0-hover-roll.gif.The file was compressed from 361.10 KB to 361.10 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:27:15 : INFO] - Completed processing task with ID : 98, and type 'smush' 
+[2024-11-28 20:27:15 : INFO] - Processing task with ID : 99, and type 'smush' 
+[2024-11-28 20:27:15 : INFO] - Re_Smush_It_Task - Attachment ID : 12901, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:27:15 : INFO] - File: Orientation.png, Compression quality: 92 
+[2024-11-28 20:27:17 : INFO] - Backing up the original image - 2024/10/Orientation-updraft-pre-smush-original.png 
+[2024-11-28 20:27:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:27:27 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/Orientation.png.The file was compressed from 742.57 KB to 195.41 KB, saving 73.68 percent, using WP-Optimize 
+[2024-11-28 20:27:27 : INFO] - Completed processing task with ID : 99, and type 'smush' 
+[2024-11-28 20:27:27 : INFO] - Processing task with ID : 100, and type 'smush' 
+[2024-11-28 20:27:27 : INFO] - Re_Smush_It_Task - Attachment ID : 12995, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:27:27 : INFO] - File: since-1987.png, Compression quality: 92 
+[2024-11-28 20:27:27 : INFO] - Backing up the original image - 2024/10/since-1987-updraft-pre-smush-original.png 
+[2024-11-28 20:27:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:27:30 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/since-1987.png.The file was compressed from 18.10 KB to 6.44 KB, saving 64.45 percent, using WP-Optimize 
+[2024-11-28 20:27:30 : INFO] - Completed processing task with ID : 100, and type 'smush' 
+[2024-11-28 20:27:30 : INFO] - Processing task with ID : 101, and type 'smush' 
+[2024-11-28 20:27:31 : INFO] - Re_Smush_It_Task - Attachment ID : 13338, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:27:31 : INFO] - File: Untitled-250-x-250-px-4.png, Compression quality: 92 
+[2024-11-28 20:27:31 : INFO] - Backing up the original image - 2024/10/Untitled-250-x-250-px-4-updraft-pre-smush-original.png 
+[2024-11-28 20:27:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:27:34 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/Untitled-250-x-250-px-4.png.The file was compressed from 37.27 KB to 16.24 KB, saving 56.42 percent, using WP-Optimize 
+[2024-11-28 20:27:34 : INFO] - Completed processing task with ID : 101, and type 'smush' 
+[2024-11-28 20:27:34 : INFO] - Processing task with ID : 102, and type 'smush' 
+[2024-11-28 20:27:34 : INFO] - Re_Smush_It_Task - Attachment ID : 13410, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:27:34 : INFO] - File: download.gif, Compression quality: 92 
+[2024-11-28 20:27:35 : INFO] - Backing up the original image - 2024/10/download-updraft-pre-smush-original.gif 
+[2024-11-28 20:27:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:27:39 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/download.gif.The file was compressed from 248.01 KB to 248.01 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:27:39 : INFO] - Completed processing task with ID : 102, and type 'smush' 
+[2024-11-28 20:27:39 : INFO] - Processing task with ID : 103, and type 'smush' 
+[2024-11-28 20:27:39 : INFO] - Re_Smush_It_Task - Attachment ID : 13477, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:27:39 : INFO] - File: Orientation-2.png, Compression quality: 92 
+[2024-11-28 20:27:41 : INFO] - Backing up the original image - 2024/10/Orientation-2-updraft-pre-smush-original.png 
+[2024-11-28 20:27:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:27:49 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/Orientation-2.png.The file was compressed from 567.21 KB to 155.49 KB, saving 72.59 percent, using WP-Optimize 
+[2024-11-28 20:27:49 : INFO] - Completed processing task with ID : 103, and type 'smush' 
+[2024-11-28 20:27:49 : INFO] - Processing task with ID : 104, and type 'smush' 
+[2024-11-28 20:27:49 : INFO] - Re_Smush_It_Task - Attachment ID : 13481, Started on : November 28, 2024 08:04:06 
+[2024-11-28 20:27:49 : INFO] - File: Orientation-2-1.png, Compression quality: 92 
+[2024-11-28 20:27:51 : INFO] - Backing up the original image - 2024/10/Orientation-2-1-updraft-pre-smush-original.png 
+[2024-11-28 20:28:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:00 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/10/Orientation-2-1.png.The file was compressed from 567.21 KB to 155.49 KB, saving 72.59 percent, using WP-Optimize 
+[2024-11-28 20:28:00 : INFO] - Completed processing task with ID : 104, and type 'smush' 
+[2024-11-28 20:28:00 : INFO] - Processing task with ID : 105, and type 'smush' 
+[2024-11-28 20:28:00 : INFO] - Re_Smush_It_Task - Attachment ID : 7358, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:00 : INFO] - File: marketplace-hero.jpg, Compression quality: 92 
+[2024-11-28 20:28:01 : INFO] - Backing up the original image - 2024/02/marketplace-hero-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:06 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/marketplace-hero.jpg.The file was compressed from 103.47 KB to 103.47 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:06 : INFO] - Completed processing task with ID : 105, and type 'smush' 
+[2024-11-28 20:28:06 : INFO] - Processing task with ID : 106, and type 'smush' 
+[2024-11-28 20:28:06 : INFO] - Re_Smush_It_Task - Attachment ID : 7366, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:06 : INFO] - File: about-us-team1.png, Compression quality: 92 
+[2024-11-28 20:28:07 : INFO] - Backing up the original image - 2024/02/about-us-team1-updraft-pre-smush-original.png 
+[2024-11-28 20:28:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:08 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team1.png.The file was compressed from 33.23 KB to 33.23 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:08 : INFO] - Completed processing task with ID : 106, and type 'smush' 
+[2024-11-28 20:28:08 : INFO] - Processing task with ID : 107, and type 'smush' 
+[2024-11-28 20:28:08 : INFO] - Re_Smush_It_Task - Attachment ID : 7367, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:08 : INFO] - File: about-us-team2.png, Compression quality: 92 
+[2024-11-28 20:28:09 : INFO] - Backing up the original image - 2024/02/about-us-team2-updraft-pre-smush-original.png 
+[2024-11-28 20:28:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:11 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team2.png.The file was compressed from 32.19 KB to 32.19 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:11 : INFO] - Completed processing task with ID : 107, and type 'smush' 
+[2024-11-28 20:28:11 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2024-11-28 20:28:11 : INFO] - Re_Smush_It_Task - Attachment ID : 7368, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:11 : INFO] - File: about-us-team3.png, Compression quality: 92 
+[2024-11-28 20:28:11 : INFO] - Backing up the original image - 2024/02/about-us-team3-updraft-pre-smush-original.png 
+[2024-11-28 20:28:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:13 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team3.png.The file was compressed from 32.01 KB to 32.01 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:13 : INFO] - Completed processing task with ID : 108, and type 'smush' 
+[2024-11-28 20:28:13 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2024-11-28 20:28:13 : INFO] - Re_Smush_It_Task - Attachment ID : 7369, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:13 : INFO] - File: about-us-team4.png, Compression quality: 92 
+[2024-11-28 20:28:14 : INFO] - Backing up the original image - 2024/02/about-us-team4-updraft-pre-smush-original.png 
+[2024-11-28 20:28:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:16 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-us-team4.png.The file was compressed from 24.17 KB to 24.17 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:16 : INFO] - Completed processing task with ID : 109, and type 'smush' 
+[2024-11-28 20:28:16 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2024-11-28 20:28:16 : INFO] - Re_Smush_It_Task - Attachment ID : 7370, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:16 : INFO] - File: meet-the-president.png, Compression quality: 92 
+[2024-11-28 20:28:16 : INFO] - Backing up the original image - 2024/02/meet-the-president-updraft-pre-smush-original.png 
+[2024-11-28 20:28:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:19 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/meet-the-president.png.The file was compressed from 73.85 KB to 73.85 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:19 : INFO] - Completed processing task with ID : 110, and type 'smush' 
+[2024-11-28 20:28:19 : INFO] - Processing task with ID : 111, and type 'smush' 
+[2024-11-28 20:28:19 : INFO] - Re_Smush_It_Task - Attachment ID : 7377, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:19 : INFO] - File: about-video-thumb.jpg, Compression quality: 92 
+[2024-11-28 20:28:20 : INFO] - Backing up the original image - 2024/02/about-video-thumb-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:23 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/about-video-thumb.jpg.The file was compressed from 69.64 KB to 69.64 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:23 : INFO] - Completed processing task with ID : 111, and type 'smush' 
+[2024-11-28 20:28:23 : INFO] - Processing task with ID : 112, and type 'smush' 
+[2024-11-28 20:28:23 : INFO] - Re_Smush_It_Task - Attachment ID : 7401, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:23 : INFO] - File: course_thumb_1.jpg, Compression quality: 92 
+[2024-11-28 20:28:24 : INFO] - Backing up the original image - 2019/05/course_thumb_1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:30 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_1.jpg.The file was compressed from 147.32 KB to 147.32 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:30 : INFO] - Completed processing task with ID : 112, and type 'smush' 
+[2024-11-28 20:28:30 : INFO] - Processing task with ID : 113, and type 'smush' 
+[2024-11-28 20:28:30 : INFO] - Re_Smush_It_Task - Attachment ID : 7402, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:30 : INFO] - File: course_thumb_2.jpg, Compression quality: 92 
+[2024-11-28 20:28:31 : INFO] - Backing up the original image - 2019/05/course_thumb_2-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:35 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_2.jpg.The file was compressed from 72.76 KB to 72.76 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:35 : INFO] - Completed processing task with ID : 113, and type 'smush' 
+[2024-11-28 20:28:35 : INFO] - Processing task with ID : 114, and type 'smush' 
+[2024-11-28 20:28:35 : INFO] - Re_Smush_It_Task - Attachment ID : 7403, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:35 : INFO] - File: course_thumb_3.jpg, Compression quality: 92 
+[2024-11-28 20:28:36 : INFO] - Backing up the original image - 2019/05/course_thumb_3-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:41 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_3.jpg.The file was compressed from 87.90 KB to 87.90 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:41 : INFO] - Completed processing task with ID : 114, and type 'smush' 
+[2024-11-28 20:28:41 : INFO] - Processing task with ID : 115, and type 'smush' 
+[2024-11-28 20:28:41 : INFO] - Re_Smush_It_Task - Attachment ID : 7404, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:41 : INFO] - File: course_thumb_4.jpg, Compression quality: 92 
+[2024-11-28 20:28:42 : INFO] - Backing up the original image - 2019/05/course_thumb_4-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:48 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_4.jpg.The file was compressed from 108.62 KB to 108.62 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:48 : INFO] - Completed processing task with ID : 115, and type 'smush' 
+[2024-11-28 20:28:48 : INFO] - Processing task with ID : 116, and type 'smush' 
+[2024-11-28 20:28:48 : INFO] - Re_Smush_It_Task - Attachment ID : 7406, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:48 : INFO] - File: course_thumb_5.jpg, Compression quality: 92 
+[2024-11-28 20:28:49 : INFO] - Backing up the original image - 2019/05/course_thumb_5-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:28:54 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_5.jpg.The file was compressed from 171.15 KB to 171.15 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:28:54 : INFO] - Completed processing task with ID : 116, and type 'smush' 
+[2024-11-28 20:28:54 : INFO] - Processing task with ID : 117, and type 'smush' 
+[2024-11-28 20:28:54 : INFO] - Re_Smush_It_Task - Attachment ID : 7407, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:28:54 : INFO] - File: course_thumb_6.jpg, Compression quality: 92 
+[2024-11-28 20:28:56 : INFO] - Backing up the original image - 2019/05/course_thumb_6-updraft-pre-smush-original.jpg 
+[2024-11-28 20:28:59 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:28:59 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-11-28 20:28:59 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-11-28 20:28:59 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-11-28 20:28:59 : INFO] - Cleaning up tasks of type (smush). A total of 20 tasks will be deleted. 
+[2024-11-28 20:28:59 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:28:59 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:28:59 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:28:59 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:28:59 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:31:00 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:31:00 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:31:00 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:31:00 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:31:00 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:33:58 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:33:58 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:33:58 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:33:58 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:33:58 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:34:01 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:34:01 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:34:01 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:34:01 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:34:01 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:34:01 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2024-11-28 20:34:01 : INFO] - Lock (updraft_lock_smush, wp_options) acquired 
+[2024-11-28 20:34:01 : INFO] - Processing task with ID : 117, and type 'smush' 
+[2024-11-28 20:34:01 : INFO] - Re_Smush_It_Task - Attachment ID : 7407, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:01 : INFO] - File: course_thumb_6.jpg, Compression quality: 92 
+[2024-11-28 20:34:03 : INFO] - Backing up the original image - 2019/05/course_thumb_6-updraft-pre-smush-original.jpg 
+[2024-11-28 20:34:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:08 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_6.jpg.The file was compressed from 132.55 KB to 132.55 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:34:08 : INFO] - Completed processing task with ID : 117, and type 'smush' 
+[2024-11-28 20:34:08 : INFO] - Processing task with ID : 118, and type 'smush' 
+[2024-11-28 20:34:08 : INFO] - Re_Smush_It_Task - Attachment ID : 7408, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:08 : INFO] - File: course_thumb_7.jpg, Compression quality: 92 
+[2024-11-28 20:34:10 : INFO] - Backing up the original image - 2019/05/course_thumb_7-updraft-pre-smush-original.jpg 
+[2024-11-28 20:34:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:16 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_7.jpg.The file was compressed from 304.69 KB to 304.69 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:34:16 : INFO] - Completed processing task with ID : 118, and type 'smush' 
+[2024-11-28 20:34:16 : INFO] - Processing task with ID : 119, and type 'smush' 
+[2024-11-28 20:34:16 : INFO] - Re_Smush_It_Task - Attachment ID : 7409, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:16 : INFO] - File: course_thumb_8.jpg, Compression quality: 92 
+[2024-11-28 20:34:18 : INFO] - Backing up the original image - 2019/05/course_thumb_8-updraft-pre-smush-original.jpg 
+[2024-11-28 20:34:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:24 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_8.jpg.The file was compressed from 321.59 KB to 321.59 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:34:24 : INFO] - Completed processing task with ID : 119, and type 'smush' 
+[2024-11-28 20:34:24 : INFO] - Processing task with ID : 120, and type 'smush' 
+[2024-11-28 20:34:24 : INFO] - Re_Smush_It_Task - Attachment ID : 7410, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:24 : INFO] - File: course_thumb_9.jpg, Compression quality: 92 
+[2024-11-28 20:34:25 : INFO] - Backing up the original image - 2019/05/course_thumb_9-updraft-pre-smush-original.jpg 
+[2024-11-28 20:34:30 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:34:30 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:34:30 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:34:30 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:34:30 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:34:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:30 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/course_thumb_9.jpg.The file was compressed from 159.66 KB to 159.66 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:34:30 : INFO] - Completed processing task with ID : 120, and type 'smush' 
+[2024-11-28 20:34:30 : INFO] - Processing task with ID : 121, and type 'smush' 
+[2024-11-28 20:34:30 : INFO] - Re_Smush_It_Task - Attachment ID : 7461, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:30 : INFO] - File: 20211112_110804-1-scaled.jpg, Compression quality: 92 
+[2024-11-28 20:34:32 : INFO] - Backing up the original image - 2024/06/20211112_110804-1-scaled-updraft-pre-smush-original.jpg 
+[2024-11-28 20:34:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:40 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/20211112_110804-1-scaled.jpg.The file was compressed from 299.63 KB to 299.63 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:34:40 : INFO] - Completed processing task with ID : 121, and type 'smush' 
+[2024-11-28 20:34:40 : INFO] - Processing task with ID : 122, and type 'smush' 
+[2024-11-28 20:34:40 : INFO] - Re_Smush_It_Task - Attachment ID : 7463, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:40 : INFO] - File: 1.jpg, Compression quality: 92 
+[2024-11-28 20:34:42 : INFO] - Backing up the original image - 2024/06/1-updraft-pre-smush-original.jpg 
+[2024-11-28 20:34:45 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:34:45 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:34:45 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:34:45 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:34:45 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:34:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:46 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/1.jpg.The file was compressed from 136.39 KB to 136.37 KB, saving 0.02 percent, using WP-Optimize 
+[2024-11-28 20:34:46 : INFO] - Completed processing task with ID : 122, and type 'smush' 
+[2024-11-28 20:34:46 : INFO] - Processing task with ID : 123, and type 'smush' 
+[2024-11-28 20:34:46 : INFO] - Re_Smush_It_Task - Attachment ID : 7465, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:46 : INFO] - File: Banner.jpg, Compression quality: 92 
+[2024-11-28 20:34:47 : INFO] - Backing up the original image - 2024/06/Banner-updraft-pre-smush-original.jpg 
+[2024-11-28 20:34:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:52 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Banner.jpg.The file was compressed from 60.34 KB to 60.34 KB, saving 0 percent, using WP-Optimize 
+[2024-11-28 20:34:52 : INFO] - Completed processing task with ID : 123, and type 'smush' 
+[2024-11-28 20:34:52 : INFO] - Processing task with ID : 124, and type 'smush' 
+[2024-11-28 20:34:52 : INFO] - Re_Smush_It_Task - Attachment ID : 7484, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:52 : INFO] - File: favicon-1.png, Compression quality: 92 
+[2024-11-28 20:34:53 : INFO] - Backing up the original image - 2024/06/favicon-1-updraft-pre-smush-original.png 
+[2024-11-28 20:34:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:34:55 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/favicon-1.png.The file was compressed from 17.97 KB to 17.94 KB, saving 0.13 percent, using WP-Optimize 
+[2024-11-28 20:34:55 : INFO] - Completed processing task with ID : 124, and type 'smush' 
+[2024-11-28 20:34:55 : INFO] - Processing task with ID : 125, and type 'smush' 
+[2024-11-28 20:34:55 : INFO] - Re_Smush_It_Task - Attachment ID : 7485, Started on : November 28, 2024 08:06:06 
+[2024-11-28 20:34:55 : INFO] - File: cropped-favicon-1.png, Compression quality: 92 
+[2024-11-28 20:34:56 : INFO] - Backing up the original image - 2024/06/cropped-favicon-1-updraft-pre-smush-original.png 
+[2024-11-28 20:35:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-11-28 20:35:00 : INFO] - Successfully optimized the image - /home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/cropped-favicon-1.png.The file was compressed from 16.24 KB to 16.21 KB, saving 0.14 percent, using WP-Optimize 
+[2024-11-28 20:35:00 : INFO] - Completed processing task with ID : 125, and type 'smush' 
+[2024-11-28 20:35:00 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-11-28 20:35:00 : INFO] - Successfully processed the queue (smush). 9 tasks were processed out of 9. 
+[2024-11-28 20:35:00 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-11-28 20:35:00 : INFO] - Cleaning up tasks of type (smush). A total of 9 tasks will be deleted. 
+[2024-11-28 20:35:00 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:35:00 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:35:00 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:35:00 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:35:00 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:35:01 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:35:01 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:35:01 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:35:01 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:35:01 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:35:05 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 20:38:06 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-11-28 20:38:06 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-11-28 20:38:06 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-11-28 20:38:06 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-11-28 20:38:06 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-11-28 22:17:43 : INFO] - Pruning the smush log file 
+[2024-12-07 12:51:07 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-12-07 12:51:07 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-12-07 12:51:07 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-12-07 12:51:07 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-12-07 12:51:07 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-12-07 12:51:14 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-12-07 12:51:14 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-12-07 12:51:14 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-12-07 12:51:14 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-12-07 12:51:14 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 
+[2024-12-07 12:51:28 : INFO] - Could not find file for image: ID=8585, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2019/05/Untitled-design-1.png 
+[2024-12-07 12:51:28 : INFO] - Could not find file for image: ID=8582, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/PowerBI-Training-Announcement-Image.jpeg 
+[2024-12-07 12:51:28 : INFO] - Could not find file for image: ID=8510, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/06/Group-1@2x.png 
+[2024-12-07 12:51:28 : INFO] - Could not find file for image: ID=7, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/woocommerce-placeholder.png 
+[2024-12-07 12:51:28 : INFO] - Could not find file for image: ID=5, file=/home/u472312318/domains/theanalytichub.com/public_html/wp-content/uploads/2024/02/woocommerce-placeholder.png 

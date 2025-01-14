@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){jQuery(".tutor-container pre").each(function(){let e=jQuery(this),i="javascript",t=e.attr("class").trim().replace("language-","")||i,a=null;if(Prism){try{a=Prism.highlight(e.text(),Prism.languages[t],t)}catch(t){a=Prism.highlight(e.text(),Prism.languages[i],i)}a&&e.html(a)}})});

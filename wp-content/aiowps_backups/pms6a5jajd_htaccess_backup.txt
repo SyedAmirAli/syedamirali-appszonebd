@@ -1,0 +1,46 @@
+
+
+# BEGIN AIRLIFT
+AddDefaultCharset utf8
+<IfModule mod_mime.c>
+AddType text/html .html_gzip
+AddEncoding gzip .html_gzip
+</IfModule>
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTPS} on [OR]
+RewriteCond %{SERVER_PORT} ^443$ [OR]
+RewriteCond %{HTTP:X-Forwarded-Proto} https
+RewriteRule .* - [E=SO_SECURE:-https]
+RewriteCond %{HTTP:Accept-Encoding} gzip
+RewriteRule .* - [E=SO_ENCODE:_gzip]
+RewriteCond %{REQUEST_METHOD} GET
+RewriteCond %{QUERY_STRING} =""
+RewriteCond %{HTTP:Cookie} !(wordpress_logged_in_|wp-postpass_|wptouch_switch_toggle|comment_author_|comment_author_email_) [NC]
+RewriteCond %{REQUEST_URI} !^(/(.+/)?feed/?|/(index.php/)?wp-json(/.*|$))$ [NC]
+RewriteCond %{HTTP_USER_AGENT} !^(facebookexternalhit).* [NC]
+RewriteCond "%{DOCUMENT_ROOT}/wp-content/cache/airlift/%{HTTP_HOST}%{REQUEST_URI}/index%{ENV:SO_SECURE}.html%{ENV:SO_ENCODE}" -f
+RewriteRule .* "%{DOCUMENT_ROOT}/wp-content/cache/airlift/%{HTTP_HOST}%{REQUEST_URI}/index%{ENV:SO_SECURE}.html%{ENV:SO_ENCODE}" [L]
+</IfModule>
+# END AIRLIFT
+
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

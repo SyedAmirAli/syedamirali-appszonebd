@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Marketplace were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://holidayinnresortbandarban.com
+Data file = /home/u472312318/domains/holidayinnresortbandarban.com/public_html/wp-content/uploads/2024/06/demo-content-import-file_2024-06-07__17-24-52.xml
+Widget file = /home/u472312318/domains/holidayinnresortbandarban.com/public_html/wp-content/uploads/2024/06/demo-widgets-import-file_2024-06-07__17-24-52.json
+Customizer
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer Widget 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Widget 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Widget 4 : 
+
+Navigation Menu - Support - Imported
+
+Footer Social Media : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tutormate_after_import---
+
